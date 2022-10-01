@@ -1,3 +1,4 @@
 # ganesha-wapuu
 
-![ganesha-wapuu](https://user-images.githubusercontent.com/5525368/193063827-3b4530e2-dcb0-4aca-b693-d2ce77d546f6.png)
+
+![ganesha-wapuu](https://user-images.githubusercontent.com/5525368/193376770-9381c008-330e-4b36-9e56-919abf71955a.png)
